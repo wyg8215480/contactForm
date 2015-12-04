@@ -1,0 +1,22 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Node.js\\node.exe',
+1 verbose cli   'C:\\Node.js\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'start' ]
+2 info using npm@2.14.2
+3 info using node@v4.0.0
+4 verbose config Skipping project config: C:\Users\Gramm Wang/.npmrc. (matches userconfig)
+5 verbose stack Error: ENOENT: no such file or directory, open 'C:\Users\Gramm Wang\package.json'
+5 verbose stack     at Error (native)
+6 verbose cwd C:\Users\Gramm Wang\Desktop\node_files\contactForm
+7 error Windows_NT 10.0.10240
+8 error argv "C:\\Node.js\\node.exe" "C:\\Node.js\\node_modules\\npm\\bin\\npm-cli.js" "start"
+9 error node v4.0.0
+10 error npm  v2.14.2
+11 error path C:\Users\Gramm Wang\package.json
+12 error code ENOENT
+13 error errno -4058
+14 error syscall open
+15 error enoent ENOENT: no such file or directory, open 'C:\Users\Gramm Wang\package.json'
+15 error enoent This is most likely not a problem with npm itself
+15 error enoent and is related to npm not being able to find a file.
+16 verbose exit [ -4058, true ]
